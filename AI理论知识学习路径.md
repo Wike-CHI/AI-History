@@ -322,7 +322,7 @@ Double ML · 工具变量
 
 | 教材 | 说明 |
 |---|---|
-| **《安徒生童话选》...** 实际上，参考以下资料： |
+| 参考以下资料： |
 | **《The Alignment Problem》(2020)** — Brian Christian, Norton | AI 对齐问题的科普/历史 |
 | **AIMA 第 27 章 哲学、伦理与 AI 安全 (2020)** — Russell & Norvig | 第 4 版新增章节 |
 | **《Human Compatible: AI and the Problem of Control》 (2019)** — Stuart Russell, Viking | AI 安全奠基之作 |
@@ -412,15 +412,35 @@ Double ML · 工具变量
 
 ### 课程主页
 
-- MIT 18.06 线性代数: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
-- MIT 18.01/18.02 微积分: https://ocw.mit.edu/
-- Harvard STAT 110 概率: https://projects.iq.harvard.edu/stat110
-- Stanford CS229 机器学习: https://cs229.stanford.edu/
-- Stanford CS231n 深度学习与视觉: https://cs231n.stanford.edu/
-- Stanford CS224n NLP: https://web.stanford.edu/class/cs224n/
-- Stanford CS228 概率图模型: https://cs228.stanford.edu/
-- UC Berkeley CS285 深度强化学习: https://rail.eecs.berkeley.edu/deeprlcourse/
-- David Silver RL: https://www.davidsilver.uk/teaching/
+- **CS50x 2026** 哈佛 CS 导论: https://cs50.harvard.edu/x/2026
+- **CS221** Stanford AI 原理: https://cs221.stanford.edu/
+- **CS229** Stanford 机器学习: https://cs229.stanford.edu/
+- **CS231n** Stanford 深度学习/视觉: https://cs231n.stanford.edu/
+- **CS224n** Stanford NLP: https://web.stanford.edu/class/cs224n/
+- **CS228** Stanford 概率图模型: https://cs228.stanford.edu/
+- **CS285** UC Berkeley 深度强化学习: https://rail.eecs.berkeley.edu/deeprlcourse/
+- **CS236** Stanford 深度生成模型: https://deepgenerativemodels.github.io/
+- **MIT 18.06** 线性代数 (Strang): https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
+- **MIT 18.01/18.02** 微积分: https://ocw.mit.edu/
+- **Harvard STAT 110** 概率 (Blitzstein): https://projects.iq.harvard.edu/stat110
+- **Stanford EE364A** 凸优化 (Boyd): https://web.stanford.edu/~boyd/ee364a/
+- **David Silver** RL 课程: https://www.davidsilver.uk/teaching/
+
+### 可视化与视频
+
+- **3Blue1Brown** 深度学习系列: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- **3Blue1Brown** 线性代数本质: YouTube 搜索 "Essence of linear algebra"
+- **StatQuest** (Josh Starmer) ML/统计: https://www.youtube.com/@statquest
+- **AIMA 可视化交互站** (非官方): https://jsurrea.github.io/aima-visualizations
+
+### 中文资源 🇨🇳
+
+- **李宏毅 机器学习 2025** (B站): https://www.bilibili.com/video/BV1TAtwzTE1S
+- **李宏毅 官网 2025**: https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php
+- **CS231n 2017 中字版** (B站): https://www.bilibili.com/video/BV1nJ411z7fe
+- **CS 自学指南** (北大出品, 完整路线): https://csdiy.wiki/
+- **《机器学习》（西瓜书）** 周志华: 清华大学出版社
+- **《统计学习方法》** 李航: 清华大学出版社
 
 ### 工具推荐
 
